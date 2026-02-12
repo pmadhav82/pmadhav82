@@ -17,7 +17,7 @@ My current aspiration is to secure a challenging web development role where I ca
 
 
 
-- 📝 I regularly write articles on [Pblog](https://www.p-blog.online/)
+- 📝 I regularly write articles on [Pblog](https://www.pblog.online/)
 
 - 📄 Know about my experiences [My_Protfolio_site](https://pmadhav82.github.io/)
 
